@@ -46,5 +46,5 @@
 This project consists of three main parts:
 - [Frontend](https://food-delivery-frontend-g1d5.onrender.com)
 - [Backend](https://food-delivery-backend-1d2b.onrender.com)
-- [Admin Panel](https://food-delivery-admin-4p3w.onrender.com)
+  
 
