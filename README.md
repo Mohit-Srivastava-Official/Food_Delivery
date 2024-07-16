@@ -42,3 +42,9 @@
 2. Open the integrated terminal in the project directory.
 3. Run `npm install` to install the necessary dependencies.
 4. Start the project using `npm run dev`.
+## Project Structure
+This project consists of three main parts:
+- [Frontend](https://food-delivery-frontend-g1d5.onrender.com)
+- [Backend](https://food-delivery-backend-1d2b.onrender.com)
+- [Admin Panel](https://food-delivery-admin-4p3w.onrender.com)
+
