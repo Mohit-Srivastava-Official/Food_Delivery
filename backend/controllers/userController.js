@@ -67,3 +67,10 @@ const registerUser = async (req, res) => {
 }
 
 export { loginUser, registerUser }  // Exporting login and register controllers
+
+
+// password + salt → hash → store hash in DB
+//So even if two users have the same password:
+
+// They will have different hashes in the DB due to different salts.
+
